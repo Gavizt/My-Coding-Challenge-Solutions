@@ -1,2 +1,5 @@
 # Java class files
 .class
+
+# MacOS file system
+.DS_Store
